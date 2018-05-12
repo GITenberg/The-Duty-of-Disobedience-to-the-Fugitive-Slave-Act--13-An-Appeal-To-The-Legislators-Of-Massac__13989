@@ -1,0 +1,33 @@
+_repo: The-Duty-of-Disobedience-to-the-Fugitive-Slave-Act--13-An-Appeal-To-The-Legislators-Of-Massac__13989
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Child, Lydia Maria
+    aliases:
+    - Francis, Lydia Maria
+    - Child, L. Maria (Lydia Maria)
+    - Child, Lydia Maria Francis
+    birthdate: 1802
+    deathdate: 1880
+    gutenberg_agent_id: '2732'
+    url: http://www.gutenberg.org/2009/agents/2732
+    wikipedia: http://en.wikipedia.org/wiki/Lydia_Child
+description: ''
+gutenberg_issued: '2004-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Fugitive slave law (1850)'
+- !lcc 'E300'
+- !lcsh 'Fugitive slaves -- United States'
+title: "The Duty of Disobedience to the Fugitive Slave Act\r\nAn Appeal To The Legislators\
+  \ Of Massachusetts, Anti-Slavery Tracts No. 9"
+url: http://www.gutenberg.org/ebooks/13989
