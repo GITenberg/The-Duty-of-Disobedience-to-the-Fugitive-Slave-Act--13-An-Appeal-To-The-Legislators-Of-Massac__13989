@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2732
     wikipedia: http://en.wikipedia.org/wiki/Lydia_Child
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13989#The-Duty-of-Disobedience-to-the-Fugitive-Slave-Act--13-An-Appeal-To-The-Legislators-Of-Massac_
 gutenberg_issued: '2004-11-09'
 gutenberg_type: Text
 identifiers:
